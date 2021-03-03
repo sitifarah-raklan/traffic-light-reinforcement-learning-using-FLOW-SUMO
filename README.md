@@ -21,3 +21,4 @@ Lastly, put trafficlightRL folder into FLOW folder (/flow)
 
 Additional Information:
 The network used in this project is Jalan Bukit Gambir, Pulau Pinang, Malaysia
+You can start running the training by using train.py
